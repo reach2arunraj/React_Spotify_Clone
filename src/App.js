@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
+import Login from "./Login"
 
 function App() {
   return (
+    // 
     <div className="app">
-      <h1>Hello World this is about building Spotify application :) </h1>
+      <Login />
     </div>
   );
 }
