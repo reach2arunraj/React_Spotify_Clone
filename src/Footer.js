@@ -15,7 +15,7 @@ function Footer() {
             <div className="footer__left">
                 <img src="https://image.tmdb.org/t/p/w500/uICyDD1FuQIjAm0M0gL6wq5RgPZ.jpg" alt="" className="footer__albumLogo"/>
                 <div className="footer__songInfo">
-                    <h4>GEANS</h4>
+                    <h4>JEANS</h4>
                     <p>Columbus Columbus</p>
                 </div>
             </div>
